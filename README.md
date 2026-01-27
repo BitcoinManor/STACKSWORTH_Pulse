@@ -126,7 +126,7 @@ stacksworth-pulse/ ├── kiosk-ui/          # Touchscreen UI ├── saton
 - Clear separation of devices
 - Conservative feature promises
 - Built to expand without dependency
-
+Visit ['BitcoinManor '](https://bitcoinmanor.com) or ['StacksWorth '](stacksworth.com) to buy yours
 ---
 
 ## 🚧 Project Status
