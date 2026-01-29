@@ -66,6 +66,22 @@ SatoNak may also be run independently on other systems.
 
 ---
 
+## 🚀 Quick Start
+
+- **🔌 Flash Instantly:**  
+  [StacksWorth Web Flasher →](https://bitcoinmanor.github.io/STACKSWORTH_WebFlasher) *(custom URL coming soon)*
+
+- **📦 Order Units or Kits:**  
+  [stacksworth.com](https://stacksworth.com)
+
+- **🛠 Full Source Code + Firmware:**  
+  [STACKSWORTH GitHub](https://github.com/BitcoinManor/STACKSWORTH_Matrix)
+
+- **🎉 Follow Us:**  
+  [Twitter/X](https://x.com/BitcoinManor) | [Instagram](https://www.instagram.com/bitcoinmanor/)
+
+---
+
 ### 🟠 5" Touchscreen Kiosk UI
 - Optimized for Raspberry Pi
 - Touch-first navigation
